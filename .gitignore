@@ -1,0 +1,8 @@
+# Project #
+###################
+node_modules
+config.yml
+.env
+.env.*
+/.vscode
+*.log
